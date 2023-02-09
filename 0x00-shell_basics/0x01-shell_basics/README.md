@@ -1,1 +1,1 @@
-Writing scripts for linux shell permissions
+Writing script files for Linux shell permissions
