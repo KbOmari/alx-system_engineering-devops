@@ -1,1 +1,1 @@
-I am creating scripts to run various shell commands
+I am creating scripts to run various Linux shell commands
