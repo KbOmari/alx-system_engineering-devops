@@ -1,1 +1,1 @@
-I am creating scipts to run Linux shell permissions
+I am creating scripts to run Linux shell permissions
