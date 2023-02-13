@@ -1,2 +1,1 @@
-#!/bin/bash
 Writing scripts that redirect standard output, extract standard input from a file, send the output of one program to the input of another program and those that can combine commands and filters with redirection.
